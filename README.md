@@ -1,12 +1,9 @@
 ![build](https://github.com/matyalatte/ER-Dualsub-Tool/actions/workflows/main.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# ER-Dualsub-Tool ver1.2
+# ER-Dualsub-Tool ver1.3
 Script to make dual-subtitle mod for Elden Ring.<br>
 You can see 2 languages in the game.
-
-## Download
-Download `ER-Dualsub-Tool*.zip` from [here](https://github.com/matyalatte/ER-Dualsub-Tool/releases)
 
 ## How to Use
 [How to Use · matyalatte/ER-Dualsub-Tool Wiki](https://github.com/matyalatte/ER-Dualsub-Tool/wiki/How-to-Use)

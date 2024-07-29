@@ -10,14 +10,34 @@ FILES = [
             'separator': ['/', None] + ['\n']*3
         },
         {
+            'msgbnd': 'menu_dlc01.msgbnd',
+            'fmg': ['LoadingTitle.fmg', 'LoadingTitle_dlc01.fmg', 'LoadingText.fmg', 'LoadingText_dlc01.fmg', 'GR_Dialogues.fmg', 'GR_Dialogues_dlc01.fmg', 'TalkMsg.fmg', 'TalkMsg_dlc01.fmg', 'BloodMsg.fmg', 'BloodMsg_dlc01.fmg'],
+            'separator': ['/', None] + ['\n']*3
+        },
+        {
+            'msgbnd': 'menu_dlc02.msgbnd',
+            'fmg': ['LoadingTitle.fmg', 'LoadingTitle_dlc01.fmg', 'LoadingTitle_dlc02.fmg', 'LoadingText.fmg', 'LoadingText_dlc01.fmg', 'LoadingText_dlc02.fmg', 'GR_Dialogues.fmg', 'GR_Dialogues_dlc01.fmg', 'GR_Dialogues_dlc02.fmg', 'TalkMsg.fmg', 'TalkMsg_dlc01.fmg', 'TalkMsg_dlc02.fmg', 'BloodMsg.fmg', 'BloodMsg_dlc01.fmg', 'BloodMsg_dlc02.fmg'],
+            'separator': ['/', None] + ['\n']*3
+        },
+        {
             'msgbnd': 'item.msgbnd',
             'fmg': ['AccessoryInfo.fmg', 'GemInfo.fmg', 'GoodsInfo.fmg', 'GoodsInfo2.fmg', 'ProtectorInfo.fmg', 'WeaponInfo.fmg'],
+            'separator': ['\n']*6
+        },
+        {
+            'msgbnd': 'item.msgbnd',
+            'fmg': ['AccessoryInfo.fmg', 'AccessoryInfo_dlc01.fmg', 'GemInfo.fmg', 'GemInfo_dlc01.fmg', 'GoodsInfo.fmg', 'GoodsInfo_dlc01.fmg', 'GoodsInfo2.fmg', 'GoodsInfo2_dlc01.fmg', 'ProtectorInfo.fmg', 'ProtectorInfo_dlc01.fmg', 'WeaponInfo.fmg', 'WeaponInfo_dlc01.fmg'],
+            'separator': ['\n']*6
+        },
+        {
+            'msgbnd': 'item.msgbnd',
+            'fmg': ['AccessoryInfo.fmg', 'AccessoryInfo_dlc01.fmg', 'AccessoryInfo_dlc02.fmg', 'GemInfo.fmg', 'GemInfo_dlc01.fmg', 'GemInfo_dlc02.fmg', 'GoodsInfo.fmg', 'GoodsInfo_dlc01.fmg', 'GoodsInfo_dlc02.fmg', 'GoodsInfo2.fmg', 'GoodsInfo2_dlc01.fmg', 'GoodsInfo2_dlc02.fmg', 'ProtectorInfo.fmg', 'ProtectorInfo_dlc01.fmg', 'ProtectorInfo_dlc02.fmg', 'WeaponInfo.fmg', 'WeaponInfo_dlc01.fmg', 'WeaponInfo_dlc02.fmg'],
             'separator': ['\n']*6
         }
     ]
 
 #constants
-VERSION = '1.2'
+VERSION = '1.3'
 YABBER_EXE = 'Yabber.exe'
 YABBER_DCX_EXE = 'Yabber.DCX.exe'
 LANG_DIRS = {
