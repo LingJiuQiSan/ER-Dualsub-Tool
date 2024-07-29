@@ -92,7 +92,7 @@ class FmgXml:
     
     def make_dualsub(xml1, xml2, separator, all=False):
         print(f'Making dualsub: {os.path.basename(xml1.xml_path)}...')
-        if (os.path.basename(xml1.xml_path)=='GR_Dialogues.fmg.xml' || os.path.basename(xml1.xml_path)=='GR_Dialogues_dlc01.fmg.xml' || os.path.basename(xml1.xml_path)=='GR_Dialogues_dlc02.fmg.xml'):
+        if (os.path.basename(xml1.xml_path)=='GR_Dialogues.fmg.xml' or os.path.basename(xml1.xml_path)=='GR_Dialogues_dlc01.fmg.xml' or os.path.basename(xml1.xml_path)=='GR_Dialogues_dlc02.fmg.xml'):
             merge = FmgXml.merge_text_grdialog        
         else:
             merge = FmgXml.merge_text_std
