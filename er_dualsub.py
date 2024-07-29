@@ -25,12 +25,12 @@ FILES = [
             'separator': ['\n']*6
         },
         {
-            'msgbnd': 'item.msgbnd',
+            'msgbnd': 'item_dlc01.msgbnd',
             'fmg': ['AccessoryInfo.fmg', 'AccessoryInfo_dlc01.fmg', 'GemInfo.fmg', 'GemInfo_dlc01.fmg', 'GoodsInfo.fmg', 'GoodsInfo_dlc01.fmg', 'GoodsInfo2.fmg', 'GoodsInfo2_dlc01.fmg', 'ProtectorInfo.fmg', 'ProtectorInfo_dlc01.fmg', 'WeaponInfo.fmg', 'WeaponInfo_dlc01.fmg'],
             'separator': ['\n']*6
         },
         {
-            'msgbnd': 'item.msgbnd',
+            'msgbnd': 'item_dlc02.msgbnd',
             'fmg': ['AccessoryInfo.fmg', 'AccessoryInfo_dlc01.fmg', 'AccessoryInfo_dlc02.fmg', 'GemInfo.fmg', 'GemInfo_dlc01.fmg', 'GemInfo_dlc02.fmg', 'GoodsInfo.fmg', 'GoodsInfo_dlc01.fmg', 'GoodsInfo_dlc02.fmg', 'GoodsInfo2.fmg', 'GoodsInfo2_dlc01.fmg', 'GoodsInfo2_dlc02.fmg', 'ProtectorInfo.fmg', 'ProtectorInfo_dlc01.fmg', 'ProtectorInfo_dlc02.fmg', 'WeaponInfo.fmg', 'WeaponInfo_dlc01.fmg', 'WeaponInfo_dlc02.fmg'],
             'separator': ['\n']*6
         }
